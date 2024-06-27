@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.btn-primary {
+  width: 100%;
+}
+.col-12 {
+  text-align: center;
+}
+.cont-sub button {
+  margin-bottom: 10px;
+}
+.btn-secondary a {
+  color: #fff;
+  text-decoration: none;
+}
+.cont-sub {
+  margin-top: 20px;
+}
+.bxl-google {
+  background-color: #db4437;
+}
+label {
+  font-weight: bold;
+}
+.bx.bxs-show {
+  font-size: 1.5em;
+}
